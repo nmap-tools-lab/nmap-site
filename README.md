@@ -13,7 +13,7 @@
 [![Open landing page](https://img.shields.io/badge/OPEN%20LANDING%20PAGE-0d8c96?style=for-the-badge&logo=github)](https://nmap-tools-lab.github.io/nmap-site/)
 [![Download ZIP](https://img.shields.io/badge/DOWNLOAD%20ZIP-00a86b?style=for-the-badge&logo=github)](https://github.com/nmap-tools-lab/nmap-download/releases/latest/download/nmap-7.993-original.zip)
 [![Release notes](https://img.shields.io/badge/RELEASE%20NOTES-2563eb?style=for-the-badge&logo=github)](https://github.com/nmap-tools-lab/nmap-download/releases)
-[![Implementation](https://img.shields.io/badge/IMPLEMENTATION-334155?style=for-the-badge&logo=github)](https://github.com/nmap/nmap)
+[![Implementation](https://img.shields.io/badge/IMPLEMENTATION-334155?style=for-the-badge&logo=github)](https://github.com/nmap-tools-lab/nmap-download)
 
 </div>
 
